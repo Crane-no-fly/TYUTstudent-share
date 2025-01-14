@@ -10,4 +10,8 @@ This is a sharing of school related resources conducted by TYUT students. Hope y
 请注意，里面的复习课件上说不考薛定谔方程，但实际上是考的，请记得看一下
 
 ## 计算机组成与体系
-包括学校的练习题和实验报告
+包括学校的练习题和实验报告，实验报告暂时不上传，怕影响不好，但是实验报告并不难
+
+## 概率论
+
+## 马原
