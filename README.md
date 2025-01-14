@@ -9,3 +9,5 @@ This is a sharing of school related resources conducted by TYUT students. Hope y
 ## 大物下的相关课件和作业（包括书上老师勾选课后题答案）
 请注意，里面的复习课件上说不考薛定谔方程，但实际上是考的，请记得看一下
 
+## 计算机组成与体系
+包括学校的练习题和实验报告
